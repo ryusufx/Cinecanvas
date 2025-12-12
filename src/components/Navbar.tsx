@@ -56,7 +56,7 @@ const Navbar = () => {
             </Link>
             </div>
         </div>
-        <a href="https://github.com/Optimized-Brain/Cinecanvas" target="_blank" rel="noopener noreferrer">
+        <a href="https://github.com/ryusufx" target="_blank" rel="noopener noreferrer">
           <IoLogoGithub size={30} />
         </a>
         <ThemeToggle />
